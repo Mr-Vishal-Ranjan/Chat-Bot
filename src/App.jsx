@@ -149,6 +149,7 @@ function App() {
           border: 1px solid #19b5ff;
           padding: 8px 16px;
           border-radius: 40px;
+          margin:0 0 40px 0;
           &:hover {
             cursor: pointer;
             background: #19b5ff;
