@@ -7,7 +7,7 @@ export function AsideSection({showConversationDebug, setShowConversationDebug}) 
          onClick={() => setShowConversationDebug(!showConversationDebug)}>
         Debug
       </a>
-      <a className={'green hover'} href={'https://github.com/Wetwer/davinci-chatbot'} target={'_blank'}>
+      <a className={'green hover'} href={'https://github.com/Mr-Vishal-Ranjan/Chat-Bot'} target={'_blank'}>
         Github
       </a>
     </div>
