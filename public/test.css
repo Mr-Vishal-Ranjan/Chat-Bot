@@ -1,5 +1,5 @@
 * {
-    font-family: Consolas, monospace;
+    font-family: Poppins;
     font-size: 1.2rem;;
 }
 
@@ -15,7 +15,7 @@ body {
     --c-orange: #ff9528;
     --c-yellow: #dddd25;
     --line: 2.5ch;
-    --font: 'IBM', monospace;
+    --font: Poppins;
 }
 
 body.invert {
